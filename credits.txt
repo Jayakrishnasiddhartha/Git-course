@@ -1,2 +1,0 @@
-username = jk123
-passwords = 12345678
